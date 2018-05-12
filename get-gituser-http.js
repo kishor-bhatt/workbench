@@ -1,4 +1,3 @@
-
 const https = require('https');
 function initialize () {
     const options = {
