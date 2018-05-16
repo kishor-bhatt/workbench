@@ -1,0 +1,29 @@
+#container {
+    height: 80vh;
+    padding:20px;
+}
+
+/* #detailsDiv {
+    height: 20vh;
+    padding:20px;
+} */
+
+.seatDiv {
+    height:80px;
+    width: 80px;
+    border: 2px solid #eee;
+    display: inline-block;
+    margin: 5px;
+}
+
+.disp-inline {
+    display: inline-block;
+}
+
+.disp-block {
+    display: block;
+}
+#leftSide {
+    float: left;
+    margin: 0 100px;
+}
